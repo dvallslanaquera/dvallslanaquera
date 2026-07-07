@@ -17,7 +17,7 @@ AI/ML engineer in Tokyo, about 10 years in. Currently deep in LLMOps, RAG and mu
 
 My favorite proverb: "If you want to go fast, go alone. If you want to go far, go together". Strong teams always win.
 
-My philosophy as a ML Engineer:  I'd rather build a system that survives real data than one that looks good in a demo.
+My philosophy as a ML Engineer:  I'd rather build a system that survives real data and solve real problems, than one that just looks good in a demo and a Power Point.
 
 Background across Criteo, FLUX and Dai-ichi Life Holdings. These days I freelance while finishing my master's degree, and occasionally lose an argument with an LLM I built.
 
