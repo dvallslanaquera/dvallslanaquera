@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm David</h3>
+<h3 align="center">👋 Hola, I'm David</h3>
 <p align="center">Senior AI/ML Engineer based in Tokyo, building with LLMs.</p>
 
 <p align="center">
