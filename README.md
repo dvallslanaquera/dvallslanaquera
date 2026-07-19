@@ -23,4 +23,6 @@ Background across Criteo, FLUX and Dai-ichi Life Holdings. These days I freelanc
 
 When I'm not shipping RAG pipelines, I'm at the gym, at the piano, or being supervised by two kittens who consider my keyboard theirs🐱🐱😨
 
-![yes-kid](./brent.gif)
+<p align="center">
+  <img src="./brent-kid.gif" width="450" alt="yes-kid" />
+</p>
