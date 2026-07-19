@@ -11,13 +11,16 @@
   <a href="https://x.com/Standby_00">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
+  <a href="https://leetcode.com/u/Standby_00/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
 AI Platform/MLOps engineer in Tokyo, about 10 years in. Currently deep in LLMOps, RAG and multi-agent systems, mostly for Japanese enterprise clients. Catalan by blood, Tokyo resident by choice, bilingual in Japanese (N1) because quitting wasn't an option.
 
 My favorite proverb: "If you want to go fast, go alone. If you want to go far, go together". Strong teams always win.
 
-My philosophy as a ML Engineer:  I'd rather build a system that survives real data and solve real problems, than one that just looks good in a demo and a Power Point.
+My philosophy as a MLOps Engineer:  I'd rather build a robust system that survives regressions and drifts, than one that just looks good in a demo and a Power Point.
 
 Background across Criteo, FLUX and Dai-ichi Life Holdings. These days I freelance while finishing my master's degree, and occasionally lose an argument with an LLM I built.
 
