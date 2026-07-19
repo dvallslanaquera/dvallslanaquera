@@ -22,3 +22,5 @@ My philosophy as a ML Engineer:  I'd rather build a system that survives real da
 Background across Criteo, FLUX and Dai-ichi Life Holdings. These days I freelance while finishing my master's degree, and occasionally lose an argument with an LLM I built.
 
 When I'm not shipping RAG pipelines, I'm at the gym, at the piano, or being supervised by two kittens who consider my keyboard theirs🐱🐱😨
+
+![yes-kid](./brent.gif)
