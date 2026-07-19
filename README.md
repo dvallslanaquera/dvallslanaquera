@@ -2,14 +2,14 @@
 <p align="center">Senior AI/ML Engineer based in Tokyo, building with LLMs.</p>
 
 <p align="center">
-  <a href="https://x.com/Standby_00">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <a href="https://www.linkedin.com/in/david-valls">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://zenn.dev/davidvl">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
   </a>
-  <a href="https://www.linkedin.com/in/david-valls">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://x.com/Standby_00">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
