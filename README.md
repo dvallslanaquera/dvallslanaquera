@@ -16,7 +16,7 @@
   </a>
 </p>
 
-AI Platform/MLOps engineer in Tokyo, about 10 years in. Currently deep in LLMOps, RAG and multi-agent systems, mostly for Japanese enterprise clients. Catalan by blood, Tokyo resident by choice, bilingual in Japanese (N1) because quitting wasn't an option.
+AI Platform/MLOps engineer in Tokyo, about 10 years in. Currently deep in LLMOps, RAG and multi-agent systems. Spanish by blood, Tokyo resident by choice, bilingual in Japanese (N1) because quitting wasn't an option.
 
 My favorite proverb: "If you want to go fast, go alone. If you want to go far, go together". Strong teams always win.
 
