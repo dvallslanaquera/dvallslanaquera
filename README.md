@@ -1,5 +1,4 @@
-<h3 align="center">Hola, this is David's repo</h3>
-<p align="center">Senior AI/ML Engineer based in Tokyo, building with LLMs.</p>
+<h3 align="center">Hola, this is David's repo🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-valls">
