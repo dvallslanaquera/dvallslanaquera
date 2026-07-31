@@ -1,4 +1,4 @@
-<h3 align="center">Hola, this is David's repo🚀</h3>
+<h3 align="center">Hola, this is David's repo</h3>
 <p align="center">Senior AI/ML Engineer based in Tokyo, building with LLMs.</p>
 
 <p align="center">
@@ -22,8 +22,17 @@ My favorite proverb: "If you want to go fast, go alone. If you want to go far, g
 
 My philosophy as a MLOps Engineer:  I'd rather build a robust system that survives regressions and drifts, than one that just looks good in a demo and a Power Point.
 
-When I'm not shipping RAG pipelines, I'm at the gym, at the piano, or being supervised by two kittens who consider my keyboard theirs🐱🐱😨
+When I'm not shipping RAG pipelines, I'm at the gym, at the piano, or being supervised by two kittens who consider my keyboard theirs.
+
+---
+
+### Project #1: [SkinGraph](https://github.com/dvallslanaquera/skingraph)
+
+Checking whether a skincare product is safe or not during pregnancy or when a skin condition is present can be time consuming and confusing.
+
+SkinGraph reads a photo of any skincare label and returns a bilingual, safety-checked recommendation. A LangGraph pipeline routes most images through Gemini Flash and falls back to Pro only when confidence drops, then grounds the extracted ingredients against a Qdrant registry using multilingual-e5-small embeddings. Safety conflicts are resolved by rules.
+
 
 <p align="center">
-  <img src="./brent-kid.gif" width="350" alt="yes-kid" />
+  <video src="GITHUB_ATTACHMENT_URL" width="700" controls muted></video>
 </p>
