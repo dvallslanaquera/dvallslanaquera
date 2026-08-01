@@ -19,9 +19,7 @@ AI Platform/MLOps engineer in Tokyo, about 10 years in. Currently deep in LLMOps
 
 My favorite proverb: "If you want to go fast, go alone. If you want to go far, go together". Strong teams always win.
 
-My philosophy as a MLOps Engineer:  I'd rather build a robust system that survives regressions and drifts, than one that just looks good in a demo and a Power Point.
-
-When I'm not shipping RAG pipelines, I'm at the gym, at the piano, or being supervised by two kittens who consider my keyboard theirs.
+When I'm not shipping RAG pipelines, I'm camping, at the piano, or being supervised by two kittens who consider my keyboard theirs.
 
 ---
 
@@ -35,3 +33,6 @@ SkinGraph reads a photo of any skincare label and returns a bilingual, safety-ch
 <p align="center">
   <video src="GITHUB_ATTACHMENT_URL" width="700" controls muted></video>
 </p>
+
+---
+
