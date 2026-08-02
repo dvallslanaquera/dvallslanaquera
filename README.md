@@ -29,6 +29,10 @@ Checking whether a skincare product is safe or not during pregnancy or when a sk
 
 SkinGraph reads a photo of any skincare label and returns a bilingual, safety-checked recommendation. A LangGraph pipeline routes most images through Gemini Flash and falls back to Pro only when confidence drops, then grounds the extracted ingredients against a Qdrant registry using multilingual-e5-small embeddings. Safety conflicts are resolved by rules.
 
+<p align="center">
+  <img src="demo.gif" width="700" alt="Skingraph demo" />
+</p>
+
 
 <p align="center">
   <video src="demo.gif" width="700" alt="Skingraph demo"></video>
