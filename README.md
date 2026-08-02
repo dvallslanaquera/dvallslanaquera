@@ -31,7 +31,7 @@ SkinGraph reads a photo of any skincare label and returns a bilingual, safety-ch
 
 
 <p align="center">
-  <video src="GITHUB_ATTACHMENT_URL" width="700" controls muted></video>
+  <video src="demo.gif" width="700" alt="Skingraph demo"></video>
 </p>
 
 ---
