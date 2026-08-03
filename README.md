@@ -34,3 +34,9 @@ SkinGraph reads a photo of any skincare label and returns a bilingual, safety-ch
 </p>
 ---
 
+### GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dvallslanaquera/dvallslanaquera/output-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
+</p>
+
