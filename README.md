@@ -21,7 +21,7 @@ My favorite proverb: "If you want to go fast, go alone. If you want to go far, g
 
 When I'm not shipping RAG pipelines, I'm camping, at the piano, or being supervised by two kittens who consider my keyboard theirs.
 
----
+<p align="center"><img src="assets/purple-divider.svg" width="100%" alt="" /></p>
 
 ### Project #1: [SkinGraph](https://github.com/dvallslanaquera/skingraph)
 
@@ -32,7 +32,7 @@ SkinGraph reads a photo of any skincare label and returns a bilingual, safety-ch
 <p align="center">
   <img src="demo.gif" width="550" alt="Skingraph demo" />
 </p>
----
+<p align="center"><img src="assets/purple-divider.svg" width="100%" alt="" /></p>
 
 ### GitHub Contributions
 
