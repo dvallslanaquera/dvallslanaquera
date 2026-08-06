@@ -25,14 +25,22 @@ When I'm not shipping RAG pipelines, I'm camping, at the piano, or being supervi
 
 ### Project #1: [SkinGraph](https://github.com/dvallslanaquera/skingraph)
 
-Checking whether a skincare product is safe or not during pregnancy or when a skin condition is present can be time consuming and confusing.
+Skincare products are becoming obiquitous, but their use comes with risk for people with some skin conditions or pregnant women. Checking whether a product is safe to use or not when some products are not transparent about the composition of the products and the urge of products that are not translated to English coming for the Korean market, is becoming more difficult than ever. 
 
-SkinGraph reads a photo of any skincare label and returns a bilingual, safety-checked recommendation. A LangGraph pipeline routes most images through Gemini Flash and falls back to Pro only when confidence drops, then grounds the extracted ingredients against a Qdrant registry using multilingual-e5-small embeddings. Safety conflicts are resolved by rules.
+SkinGraph can take a picture from the front or back of any product in any language, and perform a safety check along with a recommendation based on the preferences of the user. Built with LangGraph, it uses a tiered logic that decides what's the best VLM to use based on the nature of the input image. The extracted ingredients are grounded against a Qdrant registry using multilingual-e5-small embeddings to normalize the results and ensure the are not hallucinations. 
 
 <p align="center">
   <img src="demo.gif" width="550" alt="Skingraph demo" />
 </p>
 <p align="center"><img src="assets/purple-divider.svg" width="100%" alt="" /></p>
+
+### Project #2: [Cadence](https://github.com/dvallslanaquera/cadence)
+
+Most time tracking apps are paywalled dashboards that measure you instead of helping you. Cadence goes the other way: a local, no-login time tracker that stays out of the way. Start a timer, tag it, stop it. Your data stays on your machine, and the reports are there when you need them.
+
+<p align="center">
+  <img src="cadence-sample.jpg" width="550" alt="Cadence sample" />
+</p>
 
 ### GitHub Contributions
 
