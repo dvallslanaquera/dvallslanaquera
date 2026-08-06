@@ -42,6 +42,8 @@ Most time tracking apps are paywalled dashboards that measure you instead of hel
   <img src="cadence-sample.jpg" width="550" alt="Cadence sample" />
 </p>
 
+<p align="center"><img src="assets/purple-divider.svg" width="100%" alt="" /></p>
+
 ### GitHub Contributions
 
 <p align="center">
